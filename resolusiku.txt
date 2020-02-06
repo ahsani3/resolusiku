@@ -1,1 +1,7 @@
+Resolusiku
+- mempelajari dasar dasar pemrograman
+- memilih bahasa pemrograman
+- mempelajari ai
+- membuat web dengan ai
+- mengembangkan ai
 
