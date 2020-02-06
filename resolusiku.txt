@@ -2,3 +2,4 @@ Resolusiku
 - mempelajari dasar dasar pemrograman
 - memilih bahasa pemrograman
 - membuat ai dengan bahasa pemrograman tersebut
+- mengembangkan ai tersebut
