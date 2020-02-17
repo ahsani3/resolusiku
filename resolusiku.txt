@@ -1,7 +1,8 @@
 Resolusiku
-- mempelajari dasar dasar pemrograman
 - memilih bahasa pemrograman
+- mempelajari dasar dasar pemrograman
+- membuat web sederhana
 - mempelajari ai
 - membuat web dengan ai
+- membuat ai
 - mengembangkan ai
-
