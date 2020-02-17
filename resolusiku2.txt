@@ -1,0 +1,3 @@
+#Resolusi Lanjutan
+- memasukan program ke perangkat keras
+- membuat drone yang memiliki AI
